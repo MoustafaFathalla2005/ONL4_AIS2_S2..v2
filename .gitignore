@@ -1,0 +1,11 @@
+env/
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.h5
+*.dll
+*.mp4
+*.zip
+*.pyd
+.ipynb_checkpoints/
