@@ -1,0 +1,4 @@
+https://leetcode.com/problems/basic-calculator-ii/description/?envType=problem-list-v2&envId=math
+https://leetcode.com/problems/coin-change/
+https://leetcode.com/problems/validate-binary-search-tree/
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
